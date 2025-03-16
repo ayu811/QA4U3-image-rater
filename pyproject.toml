@@ -1,0 +1,13 @@
+[project]
+name = "image-rater"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "kivy>=2.3.1",
+    "nuitka>=2.6.8",
+    "pandas>=2.2.3",
+    "pillow>=11.1.0",
+    "streamlit>=1.43.2",
+]
